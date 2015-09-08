@@ -1,0 +1,4 @@
+var edad = 12;
+edad;
+console.log(edad)
+edad = "Hola"
